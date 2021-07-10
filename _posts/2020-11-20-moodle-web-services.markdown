@@ -14,4 +14,4 @@ The built-in documentation for both platforms occasionally lacks crucial informa
 - Whether the function applies only to the Moodle mobile app.
 - Guidance about use cases.
 
-You can learn more about the gaps I encountered by reading my series of knowledge base articles.
+You can learn more about the gaps I encountered by reading my series of [knowledge base articles](https://kathrynmarks.com.au/kb/doku.php?id=kb:totara_and_moodle_web_services:context_usage_and_limitations).
