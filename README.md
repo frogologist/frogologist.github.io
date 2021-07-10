@@ -1,2 +1,0 @@
-# frogologist.github.io
-Blog
