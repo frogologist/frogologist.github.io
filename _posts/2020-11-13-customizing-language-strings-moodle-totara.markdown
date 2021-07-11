@@ -5,7 +5,7 @@ date:   2020-11-20 10:39:29 +1000
 categories: elearning
 ---
 
-![The Babel fish, as rendered in the BBC adaptation of The Hitchhiker's Guide to the Galaxy by Douglas Adams.]({{ site.url }}/_images/babel-fish.png)
+![The Babel fish, as rendered in the BBC adaptation of The Hitchhiker's Guide to the Galaxy by Douglas Adams.]({{ site.url }}/assets/images/babel-fish.png)
 
 Moodle and Totara Learn support a range of languages in the form of language packs. Language packs are editable, so you may customize the wording and terminology to reflect your organization's culture. The Learning Management System (LMS) will feel more familiar to your learners and other users.
 
