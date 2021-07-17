@@ -4,15 +4,26 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## About the author
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Hello! My name is Kathryn. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+How did a neuroscientist end up in product marketing?
 
+That's a bloody good question! :joy: 
 
-[jekyll-organization]: https://github.com/jekyll
+When I'm not writing about tech at [Octopus Deploy](https://octopus.com/), you'll find me out walking with my dog, camera, or both.
+
+You can follow my adventures on [LinkedIn](https://www.linkedin.com/in/kathryn-marks/), [Twitter](https://twitter.com/wordycauses), and [Instagram](https://www.instagram.com/frogologist).
+
+Oxford commas? Why, yes please!
+
+## About the blog
+
+This blog is a [Jekyll](https://jekyllrb.com/) site with the [Minima](https://github.com/jekyll/minima) theme, hosted by [GitHub pages](https://pages.github.com/). The content is written in [Markdown](https://en.wikipedia.org/wiki/Markdown) and stored in a [GitHub repository](https://github.com/frogologist/frogologist.github.io).
+
+Previous homes for this blog have included Content Management Systems (CMS) such as Blogger by [Pyra Labs](https://en.wikipedia.org/wiki/Pyra_Labs)/[Google](https://www.blogger.com), [Wordpress.com](https://wordpress.com), and a self-hosted [Wordpress](https://wordpress.org/) instance.
+
+The irony of a CMS is that the content takes a back seat to the platform itself. Clumsy text editors are par for the course.
+
+Jekyll, GitHub, and Markdown allow me to focus on writing.
