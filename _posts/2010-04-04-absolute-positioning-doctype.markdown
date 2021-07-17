@@ -5,7 +5,7 @@ date:   2010-04-04 10:39:29 +1000
 categories: programming
 ---
 
-When a CSS layout breaks in Internet Explorer 7 or 8, it may be due to the lack of an appropriate HTML/XHTML [doctype declaration](https://www.w3schools.com/tags/tag_doctype.asp).
+When a CSS layout breaks in Internet Explorer (IE) 7 or 8, it may be due to the lack of an appropriate HTML/XHTML [doctype declaration](https://www.w3schools.com/tags/tag_doctype.asp).
 
 My latest site design involves a footer positioned at the bottom of the viewport (browser window) or, if the content spills off-screen, below everything else on the page. My design relies on the following code in the footer section of my style sheet:
 
