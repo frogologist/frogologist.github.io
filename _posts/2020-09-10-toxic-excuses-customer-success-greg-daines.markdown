@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""Toxic excuses of Customer Success" by Greg Daines"
+title:  "'Toxic excuses of Customer Success' by Greg Daines"
 date:   2020-09-10 10:39:29 +1000
 categories: it
 ---
