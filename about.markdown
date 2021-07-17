@@ -4,21 +4,19 @@ title: About
 permalink: /about/
 ---
 
-## About the author
+## The author
 
 Hello! My name is Kathryn. 
 
-How did a neuroscientist end up in product marketing?
-
-That's a bloody good question! :joy: 
+How did a neuroscientist end up in product marketing? That's a bloody good question! 
 
 When I'm not writing about tech at [Octopus Deploy](https://octopus.com/), you'll find me out walking with my dog, camera, or both.
 
 You can follow my adventures on [LinkedIn](https://www.linkedin.com/in/kathryn-marks/), [Twitter](https://twitter.com/wordycauses), and [Instagram](https://www.instagram.com/frogologist).
 
-Oxford commas? Why, yes please!
+Oxford comma? How good of you to spot it!
 
-## About the blog
+## The blog
 
 This blog is a [Jekyll](https://jekyllrb.com/) site with the [Minima](https://github.com/jekyll/minima) theme, hosted by [GitHub pages](https://pages.github.com/). The content is written in [Markdown](https://en.wikipedia.org/wiki/Markdown) and stored in a [GitHub repository](https://github.com/frogologist/frogologist.github.io).
 
