@@ -5,7 +5,7 @@ date:   2020-09-10 10:39:29 +1000
 categories: it
 ---
 
-I happened upon a [CS100 Summit](https://cs100.clientsuccess.com/) presentation by Greg Daines about the common challenges faced by Customer Success teams. Greg's premise of 'toxic excuses' is too click-bait for my taste, but the case studies resonated with my experiences working on the vendor side of software implementations.
+I happened upon a [CS100 Summit](https://cs100.clientsuccess.com/) presentation by Greg Daines about the common challenges faced by customer success teams. Greg's premise of 'toxic excuses' is too click-bait for my taste, but the case studies resonated with my experiences working on the vendor side of software implementations.
 
 This post outlines the key points in Greg's talk, posted by [ClientSuccess](https://www.youtube.com/channel/UCyebb34-V4tmrlJQlt40CZg) on [YouTube](https://www.youtube.com/watch?v=OQgJzm-5DPk) (24 minutes).
 
