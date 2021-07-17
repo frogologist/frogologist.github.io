@@ -9,12 +9,13 @@ When a CSS layout breaks in IE7 (or IE8), it may be due to the lack of an approp
 
 My latest site design involves a footer positioned at the bottom of the viewport (browser window) or, if the content spills off-screen, below everything else on the page. My design relies on the following code in the footer section of my style sheet:
 
-#footer
-{
-position:absolute;
-bottom:0;
-padding-bottom:10px;
+```
+#footer {
+  position:absolute;
+  bottom:0;
+  padding-bottom:10px;
 }
+```
 
 Chrome, Safari, and Firefox rendered the footer perfectly on Mac and Windows Vista, but my design failed in IE7.
 
