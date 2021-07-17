@@ -22,6 +22,6 @@ Prioritize issues by business impact. The laundry list of problems may shrink to
 Provide the sales team with a clear bullseye ([10:11](https://youtu.be/OQgJzm-5DPk?t=611)). Focus on benefits rather than features and articulate the value proposition with precision ([13:06](https://youtu.be/OQgJzm-5DPk?t=786)).
 
 ## Deliver results, not happiness
-Consider focusing on customer results rather than happiness ([18:00](https://youtu.be/OQgJzm-5DPk?t=1080) because the most engaged customers are more likely to test the boundaries of the product and identify potential flaws.
+Consider focusing on customer results rather than happiness ([18:00](https://youtu.be/OQgJzm-5DPk?t=1080)) because the most engaged customers are more likely to test the boundaries of the product and identify potential flaws.
 
 Eliminate low-yield activities and standardize the tactics that work ([20:13](https://youtu.be/OQgJzm-5DPk?t=1213)).
