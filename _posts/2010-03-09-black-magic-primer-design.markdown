@@ -5,6 +5,12 @@ date:   2010-03-09 10:39:29 +1000
 categories: science
 ---
 
+Designing PCR primers can feel like hunting for the Holy Grail. 
+
+My co-supervisor introduced me to Invitrogen's free OligoPerfect design tool and handed me a modest list of parameters and guidelines. I happily used the tool to design several primers from Genbank sequences, and most of them yielded satisfactory experimental results.
+
+Through my reading of peer-reviewed articles and web resources, I learned about self- and cross-dimerisation of primers. Poorly designed primers can bind to themselves instead of their genetic targets, thus sabotaging the PCR experiment. More sophisticated design or analysis tools can predict such dimers and provide [Gibbs free energy](https://en.wikipedia.org/wiki/Gibbs_free_energy) (delta G) value to indicate the strength of each dimer interaction, but different tools give different values. OligoPerfect does not offer such functionality at all.
+
 I started using the design tool Primer3 and Premier Biosoft's NetPrimer to check the primers for dimers and other flaws. Designing "good" primers became difficult because I couldn't reconcile my co-supervisor's preferences with the additional dimer rules.
 
 One thing the tools have in common is poor user experience. They do not permit batch analysis of primer pairs, so you're stuck with a laborious copy-paste-click routine.
