@@ -13,7 +13,7 @@ This post outlines the key points in [Greg's talk](https://www.youtube.com/watch
 
 People lose sight of the bigger picture because it's easier to obsess about technical detail.
 
-Focus on delivering business results ([4:54](https://youtu.be/OQgJzm-5DPk?t=294)) and help customers improve their processes ([3:18](https://youtu.be/OQgJzm-5DPk?t=198)) instead of bending the product or hijacking the product roadmap to fit the status quo.
+Focus on delivering business results ([4:54](https://youtu.be/OQgJzm-5DPk?t=294)) and help customers improve their processes ([3:18](https://youtu.be/OQgJzm-5DPk?t=198)) instead of hijacking the product roadmap to fit the status quo.
 
 Prioritize issues by business impact. The laundry list of problems may shrink to a more manageable size, as in Greg's story about Paychex ([6:06](https://youtu.be/OQgJzm-5DPk?t=366)).
 
