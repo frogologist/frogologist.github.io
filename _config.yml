@@ -23,7 +23,7 @@ email: kathryn@kathrynmarks.com.au
 description: >- # this means to ignore newlines until "baseurl:"
   Why WordPress when you can Jekyll?
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://frogologist.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: wordycauses
 github_username: frogologist
 
