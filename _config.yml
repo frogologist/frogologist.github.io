@@ -31,7 +31,10 @@ collections_dir: collections
 collections:
   posts:
     output: true
-    permalink: /:collection/:name
+    permalink: /blog/:title
+  kb:
+    output: true
+    permalink: /:collection/:title
 # Build settings
 theme: minima
 plugins:
