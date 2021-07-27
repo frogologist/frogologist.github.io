@@ -27,6 +27,8 @@ url: "https://frogologist.github.io" # the base hostname & protocol for your sit
 twitter_username: wordycauses
 github_username: frogologist
 
+collections_dir: collections
+
 # Build settings
 theme: minima
 plugins:
