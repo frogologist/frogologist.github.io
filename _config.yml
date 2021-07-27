@@ -28,7 +28,10 @@ twitter_username: wordycauses
 github_username: frogologist
 
 collections_dir: collections
-
+collections:
+  posts:
+    output: true
+    permalink: /:collection/:name
 # Build settings
 theme: minima
 plugins:
