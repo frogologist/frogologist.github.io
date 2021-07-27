@@ -34,7 +34,7 @@ collections:
     permalink: /blog/:title
   kb:
     output: true
-    permalink: /:collection/:title
+    permalink: /kb/:title
 # Build settings
 theme: minima
 plugins:
