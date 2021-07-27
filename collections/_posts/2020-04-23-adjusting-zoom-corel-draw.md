@@ -9,4 +9,4 @@ Every year I create a poster or two for scientific conferences. I’m currently 
 
 I use versions 11 and 13 of Corel Draw, depending on whether I’m in the lab or at home. Zooming in to “100%” does not show the poster at full scale. Until now, I’ve (idiotically) manually calibrated the zoom function to see my work at full size; by trial-and-error, I zoomed in until 1cm on the software ruler matched 1cm on an actual ruler.
 
-A much better method is to change the default zoom behavior such that “100%” reveals the document at full size. Refer to my [knowledge base article]({% link _kb\zoom-corel-draw.md %}) for more information.
+A much better method is to change the default zoom behavior such that “100%” reveals the document at full size. Refer to my [knowledge base article]({% link _kb\adjusting-zoom-corel-draw.md %}) for more information.
