@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "StopDialog requests in AGS 3.1"
+slug: stopdialog-requests-ags
 date:   2010-01-18 10:39:29 +1000
 categories: programming
 ---
