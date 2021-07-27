@@ -9,8 +9,7 @@ categories: windows
 
 >A connection to the remote computer could not be established. You might need to change the network settings for this connection.
 
-The [[https://social.technet.microsoft.com/Forums/en-US/5a63e743-36a0-4cc1-927b-79dfec166d0e/vpn-setup-in-windows-10-is-not-working?forum=win10itpronetworking|verified answer]] to this question worked for me:
-
+The [verified answer](https://social.technet.microsoft.com/Forums/en-US/5a63e743-36a0-4cc1-927b-79dfec166d0e/vpn-setup-in-windows-10-is-not-working?forum=win10itpronetworking) to this question worked for me:
 
 1. Open File Explorer e.g. Windows Key + E.
 2. Right click on ''This PC'', and select ''Manage''.
