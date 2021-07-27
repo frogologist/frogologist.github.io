@@ -11,4 +11,4 @@ When attempting to connect to a customer's VPN, I encountered the following erro
 
 The VPN connection settings were fine; Windows wouldn't play ball.
 
-I resolved the issue by uninstalling and reinstalling the WAN Miniport adapters. Refer to my [knowledge base article](https://kathrynmarks.com.au/kb/doku.php?id=kb:windows:windows_10_cannot_connect_to_vpn) for more information.
+I resolved the issue by uninstalling and reinstalling the WAN Miniport adapters. Refer to my [knowledge base article]({% link collections/_kb/windows-10-cannot-connect-to-vpn.md %}) for more information.
