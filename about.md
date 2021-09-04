@@ -8,13 +8,9 @@ permalink: /about/
 
 Hello! My name is Kathryn. 
 
-How did a neuroscientist end up in product marketing? That's a bloody good question! 
+How did a neuroscientist end up in product marketing? That's a bloody good question!
 
-When I'm not writing about tech at [Octopus Deploy](https://octopus.com/), you'll find me out walking with my dog, camera, or both.
-
-You can follow my adventures on [LinkedIn](https://www.linkedin.com/in/kathryn-marks/), [Twitter](https://twitter.com/wordycauses), and [Instagram](https://www.instagram.com/frogologist).
-
-Oxford comma? How good of you to spot it!
+When I'm not writing about tech at [Octopus Deploy](https://octopus.com/), you'll find me out walking with my dog, camera, or both. You can follow my adventures on [LinkedIn](https://www.linkedin.com/in/kathryn-marks/), [Twitter](https://twitter.com/wordycauses), and [Instagram](https://www.instagram.com/frogologist).
 
 ## The blog
 
@@ -22,6 +18,6 @@ This blog is a [Jekyll](https://jekyllrb.com/) site with the [Minima](https://gi
 
 Previous homes for this blog have included Content Management Systems (CMS) such as Blogger by [Pyra Labs](https://en.wikipedia.org/wiki/Pyra_Labs)/[Google](https://www.blogger.com), [Wordpress.com](https://wordpress.com), and a self-hosted [Wordpress](https://wordpress.org/) instance.
 
-The irony of a CMS is that the content takes a back seat to the platform itself. Clumsy text editors are par for the course.
+The irony of a database-driven CMS is that the content takes a back seat to the platform itself. Clumsy text editors are par for the course.
 
 Jekyll, GitHub, and Markdown allow me to focus on writing.
