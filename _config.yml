@@ -36,7 +36,7 @@ collections:
     output: true
     permalink: /kb/:title
   kb-test:
-    output:true
+    output: true
     permalink: /kb-test/:title
 # Build settings
 theme: minima
