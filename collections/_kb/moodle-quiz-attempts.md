@@ -20,3 +20,5 @@ When you invoke **Delete selected attempts** to reset the attempt for a given le
 ## Override the number of attempts for a given user
 
 The **User override** feature allows you to increase the number of attempts for a particular learner, e.g. from 1 to 2.
+
+Existing attempts are not deleted.
