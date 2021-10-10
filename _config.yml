@@ -35,9 +35,6 @@ collections:
   kb:
     output: true
     permalink: /kb/:title
-  kb-test:
-    output: true
-    permalink: /kb-test/:title
 # Build settings
 theme: minima
 plugins:
