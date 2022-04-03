@@ -41,7 +41,7 @@ I have a couple of personal GitHub accounts:
 - [kathrynmarks](https://github.com/kathrynmarks) is the one I use at Octopus Deploy
 - [frogologist](https://github.com/frogologist) contains this website
 
-My main contributions are to the Octopus Deploy [blog](https://octopus.com/blog), but I also make updates to the [website](https://octopus.com), [product documentation](https://octopus.com/docs), and the [product roadmap](https://octopus.com/company/roadmap)
+My main contributions at Octopus are to company's [blog](https://octopus.com/blog). I also update the [website](https://octopus.com), [product documentation](https://octopus.com/docs), and [product roadmap](https://octopus.com/company/roadmap).
 
 Specific website contributions include the [What's New](https://octopus.com/whatsnew) entries for:
   - 2021.3
@@ -53,9 +53,9 @@ Specific website contributions include the [What's New](https://octopus.com/what
 
 I'm responsible for all posts, comments, and replies shared via Octopus Deploy's [Twitter](https://twitter.com/OctopusDeploy) and [LinkedIn](https://www.linkedin.com/company/octopus-deploy/) profiles.
 
-I transferred from Product Marketing to social media marketing in December 2021, becoming the first person to work full-time on social media at Octopus. Social became a side gig of mine in March or April 2021, a month or two after I joined the company.
-
 I've been running Octopus Deploy's Twitter account since March 2021 and LinkedIn since December 2021. The Octopus launch posts from 2021 are mine, mixed in with content from others.
+
+I transferred from product marketing to social media marketing in December 2021, becoming the first person to work full-time on social at Octopus.
 
 ## Nature photography
 
