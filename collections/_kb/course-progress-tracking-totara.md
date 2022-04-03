@@ -63,7 +63,7 @@ In terms of progress data, Totara is at the mercy of the information made availa
 
 [SCORM 1.2](https://scorm.com/scorm-explained/technical-scorm/run-time/run-time-reference/) does not provide any explicit mechanism to indicate (to the LMS) the learner’s progress as a percentage value, nor minutes remaining.
 
-When learning content is packaged as one SCO, the Learning Management System (LMS) such as Totara Learn receives the status of the SCO as a whole — it does not receive detailed information about the content or progress inside the SCO. At most, the LMS is aware whether a SCORM for a given learner is not started, in progress, or complete.
+When learning content is packaged as one SCO, the LMS (such as Totara) receives the status of the SCO as a whole — it does not receive detailed information about the content or progress inside the SCO. At most, the LMS is aware whether a SCORM for a given learner is not started, in progress, or complete.
 
 #### What about SCORM Objectives?
 
