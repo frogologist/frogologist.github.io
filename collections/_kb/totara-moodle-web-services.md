@@ -45,7 +45,7 @@ Please excuse the width of this table.
 
 | Web service function | Moodle mobile app only | Undocumented capability | ws user must be enrolled to Course | Other notes |
 | --- | --- | --- | --- | --- |
-| [core_calendar_create_calendar_events](#heading) | Yes | – | – | – |
+| [core_calendar_create_calendar_events](#core_calendar_create_calendar_events) | Yes | – | – | – |
 | `core_calendar_delete_calendar_events` | Yes | – | – | – |
 | `core_calendar_get_calendar_events` | Yes | – | – | – |
 | `core_completion_get_activities_completion_status` | No | https://docs.moodle.org/38/en/Capabilities/report/progress:view report/progress:view | Yes | – |
