@@ -41,9 +41,11 @@ The URL for this page resembles `https://yoursiteaddress/admin/webservice/servic
 
 I've found numerous examples where the required capabilities are not cited on this page. In other cases, the capability is documented but there is some other requirement or caveat.
 
+Please excuse the width of this table.
+
 | Web service function | Moodle mobile app only | Undocumented capability | ws user must be enrolled to Course | Other notes |
 | --- | --- | --- | --- | --- |
-| `core_calendar_create_calendar_events|core_calendar_create_calendar_events` | Yes | – | – | – |
+| [core_calendar_create_calendar_events](#heading) | Yes | – | – | – |
 | `core_calendar_delete_calendar_events` | Yes | – | – | – |
 | `core_calendar_get_calendar_events` | Yes | – | – | – |
 | `core_completion_get_activities_completion_status` | No | https://docs.moodle.org/38/en/Capabilities/report/progress:view report/progress:view | Yes | – |
@@ -57,3 +59,6 @@ I've found numerous examples where the required capabilities are not cited on th
 | `mod_quiz_get_quizzes_by_courses` | No | – | Yes | Returns generic (config) information about the Course's quizzes—not learner data. |
 | `mod_quiz_get_user_attempts` | No | https://docs.moodle.org/38/en/Capabilities/mod/quiz:viewreports mod/quiz:viewreports | Yes | – |
 | `mod_quiz_get_user_best_grade` | No | – | Yes | – |
+
+### core_calendar_create_calendar_events
+
