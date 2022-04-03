@@ -34,7 +34,7 @@ My technical background meant that I could write the breaking changes without di
 - [Octopus 2021.2](https://octopus.com/downloads/whatsnew/2021.2)
 - [Octopus 2021.3](https://octopus.com/downloads/whatsnew/2021.3)
 
-## What's new product descriptions
+### What's new product descriptions
 
 Marketing maintains the [What's New](https://octopus.com/whatsnew) page on the Octopus website.
 
