@@ -10,7 +10,7 @@ This page provides links to my work on other sites.
 
 This site is mostly populated with older work (2010-2020).
 
-I wrote most of my [blog posts]({% link index.md %}) and [knowledge base]({% link _kb %}) (kb) articles during my time as a business analyst and product owner at Kineo. The kb was originally a personal site in the company's SharePoint instance; I've omitted propietary information to protect Kineo's interests.
+I wrote most of my [blog posts]({% link index.md %}) and [knowledge base](https://frogologist.github.io/kb) (kb) articles during my time as a business analyst and product owner at Kineo. The kb was originally a personal site in the company's SharePoint instance; I've omitted propietary information to protect Kineo's interests.
 
 ### Professional blog posts
 
