@@ -61,9 +61,8 @@ I transferred from product marketing to social media marketing in December 2021,
 
 You can check out my nature photos posted to the following sites:
 
+- [Instagram](https://www.instagram.com/frogologist)
 - [Twitter](https://twitter.com/malleekat)
 - [Redbubble store](http://malleekat.redbubble.com)
-- [Instagram](https://www.instagram.com/frogologist)
-
 
 
