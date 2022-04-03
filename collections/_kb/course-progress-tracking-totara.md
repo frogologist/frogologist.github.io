@@ -82,7 +82,7 @@ While both Adapt and Articulate Rise both support the fundamental SCORM interact
 
 #### What about xAPI?
 
-In short, there is no progress tracking solution available via xAPI functionality.
+In short, there is no progress tracking solution available via [xAPI](https://xapi.com/) functionality.
 
 You could design xAPI statements to collect more detailed tracking information from SCORM packages and submit it to an interfaced Learning Record Store (LRS).
 
