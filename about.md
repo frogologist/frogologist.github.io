@@ -10,7 +10,7 @@ Hello! My name is Kathryn.
 
 How did a neuroscientist end up in marketing? That's a bloody good question!
 
-When I'm not writing about tech at [Octopus Deploy](https://octopus.com/), you'll find me out walking with my dog, camera, or both. You can follow my adventures on [LinkedIn](https://www.linkedin.com/in/kathryn-marks/), [Twitter](https://twitter.com/wordycauses), [my Twitter alt for nature photos](https://twitter.com/malleekat) and [Instagram](https://www.instagram.com/frogologist).
+When I'm not writing about tech at [Octopus Deploy](https://octopus.com/), you'll find me out walking with my dog, camera, or both. You can follow my adventures on [LinkedIn](https://www.linkedin.com/in/kathryn-marks/), [Twitter](https://twitter.com/wordycauses), and [Instagram](https://www.instagram.com/frogologist). There's also [my Twitter alt](https://twitter.com/malleekat), which is exclusively for nature photos. Birds and insects are my primary subjects, but you'll see animals, plants, and landscapes, too.
 
 ## The blog
 
