@@ -20,4 +20,4 @@ Previous homes for this blog included Content Management Systems (CMS) such as B
 
 The irony of a database-driven CMS is that the content takes a back seat to fidding about with the platform. Clumsy text editors are par for the course.
 
-Jekyll, GitHub, and Markdown allow me to focus on writing and make it easy to roll back mistakes.
+Jekyll, GitHub, and Markdown allow me to focus on writing, satisfy my craving for a bit of coding, and make it easy to roll back mistakes.
