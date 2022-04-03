@@ -23,17 +23,19 @@ Note that Totara does not support the display of time-based estimates. Totara ca
 
 ## SCORM-based courses
 
+Online learning courses are commonly built according to the [Sharable Content Object Reference Model](https://scorm.com/) (SCORM) and delivered by an LMS.
+
 ### How is existing SCORM content typically constructed?
 
-SCORM content is often constructed as one SCO bundled into one SCORM package.
+SCORM content is often constructed as one Shareable Content Object (SCO) bundled into one SCORM package.
 
 Content created in this way must be uploaded to a single SCORM Activity in Totara Learn. Where a given Course has only one such Activity, Totara's Activity-based calculations would see the progress jump from 0% to 100% with no intermediate value — even when the learner completed the SCORM content across multiple sittings.
 
 ### How should new SCORM content be built to harness Totara's progress tracking?
 
-This recommendation applies to building [Sharable Content Object Reference Model](https://scorm.com/) (SCORM) content where granular progress tracking is required in Totara Learn. You can learn more about SCORM by checking out their [golf examples](https://scorm.com/scorm-explained/technical-scorm/golf-examples/).
+This recommendation applies to building SCORM content where granular progress tracking is required in Totara Learn. You can learn more about SCORM by checking out their [golf examples](https://scorm.com/scorm-explained/technical-scorm/golf-examples/).
 
-- Build SCORM-based learning content for a given Course as a series of Standalone Shareable Content objects (SCOs), each packaged separately, with one topic or section per package.
+- Build SCORM-based learning content for a given Course as a series of SCOs, each packaged separately, with one topic or section per package.
 - Upload each package to the Course as a separate SCORM Activity. See Totara's documentation for a [step-by-step guide](https://help.totaralearning.com/display/TH13/SCORM).
 - Totara applies its standard progress calculation. Example: if you create a Course with 6 SCORM Activities, each Activity contributes 16.7% towards course completion (100% ÷ 6).
 
