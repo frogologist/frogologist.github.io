@@ -10,7 +10,7 @@ This page provides links to my work on other sites.
 
 This site is mostly populated with older work (2010-2020).
 
-I wrote most of my [blog posts]({% link index.md %}) and [knowledge base](https://frogologist.github.io/kb) (kb) articles during my time as a business analyst and product owner at Kineo. The kb was originally a personal site in the company's SharePoint instance; I've omitted propietary information to protect Kineo's interests.
+I wrote most of my [blog posts]({% link index.md %}) and [knowledge base](https://frogologist.github.io/kb) (kb) articles during my time as a business analyst and product owner at Kineo. The kb was originally a personal site in the company's SharePoint instance; I've omitted proprietary information to protect Kineo's interests.
 
 ### Professional blog posts
 
@@ -25,9 +25,9 @@ Note: The Q3 title was provided by my team. I would have preferred a shorter tit
 
 ### Release highlights and breaking changes
 
-Octopus release notes are autopopulated from GitHub via a bot. Product Marketing is responsible for writing the release highlights and compiling the breaking changes.
+Octopus Deploy's release notes are generated from GitHub via a bot. Product Marketing is responsible for writing the release highlights and compiling the breaking changes.
 
-My technical background meant that I could write the breaking changes without direct input from product managers or developers. I relied on the GitHub issues and corresponding PRs to write up the notes. The engineers usually endorsed my copy without making changes.
+My technical background meant that I could write the breaking changes without direct input from product managers or developers. I relied on the GitHub issues and corresponding PRs document them for our readers. The engineers usually endorsed my copy without making changes.
 
 - [Octopus 2020.6](https://octopus.com/downloads/whatsnew/2020.6)
 - [Octopus 2021.1](https://octopus.com/downloads/whatsnew/2021.1)
