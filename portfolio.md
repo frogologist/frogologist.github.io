@@ -59,7 +59,7 @@ My main contributions at Octopus are to company's [blog](https://octopus.com/blo
 
 I'm responsible for all posts, comments, and replies shared via Octopus Deploy's [Twitter](https://twitter.com/OctopusDeploy) and [LinkedIn](https://www.linkedin.com/company/octopus-deploy/) profiles.
 
-I've been running Octopus Deploy's Twitter account since March 2021 and LinkedIn since December 2021. The Octopus launch posts from 2021 are mine, mixed in with content from others.
+I've been running Octopus Deploy's Twitter account since March 2021 and LinkedIn since December 2021. The Octopus launch posts on LinkedIn from 2021 are mine, mixed in with content from others.
 
 I transferred from product marketing to social media marketing in December 2021, becoming the first person to work full-time on social at Octopus.
 
