@@ -45,7 +45,7 @@ The topics-as-SCOs approach described here is considered best practice by some L
 
 The short answer is no. Read on for more information.
 
-### What are the limiting factors? What would we need to achieve this?
+#### What are the limiting factors? What would we need to achieve this?
 
 There are multiple factors to consider when attempting to display granular progress data from one SCORM package. They include the functionality and capabilities of:
 
@@ -53,19 +53,19 @@ There are multiple factors to consider when attempting to display granular progr
 - the Shareable Content Object Reference Model (SCORM) version
 - content authoring tools such as Adapt and Articulate Rise
 
-### Totara Learn
+#### Totara Learn
 
 Totara Learn supports SCORM 1.2. It does not support more recent iterations of the reference model, including SCORM 2004.
 
 In terms of progress data, Totara is at the mercy of the information made available by the SCORM package.
 
-### SCORM 1.2
+#### SCORM 1.2
 
 [SCORM 1.2](https://scorm.com/scorm-explained/technical-scorm/run-time/run-time-reference/) does not provide any explicit mechanism to indicate (to the LMS) the learner’s progress as a percentage value, nor minutes remaining.
 
 When learning content is packaged as one SCO, the Learning Management System (LMS) such as Totara Learn receives the status of the SCO as a whole — it does not receive detailed information about the content or progress inside the SCO. At most, the LMS is aware whether a SCORM for a given learner is not started, in progress, or complete.
 
-### What about SCORM Objectives?
+#### What about SCORM Objectives?
 
 SCORM’s data model (CMI) includes learning objectives: `cmi.objectives`. It’s possible to set up a SCORM package so that each topic tracks to an objective.
 
@@ -76,11 +76,11 @@ Totara could, theoretically, be made to calculate progress based on the number o
 - The field `cmi.objectives._count` holds the current number of objectives, not the total. This value represents the number of objectives recorded since the learner launched the SCORM, not how many to expect. The SCORM should declare to the LMS how many objectives there are at first launch, but it's not a requirement. Based on my experience, most packages do not provide this information.
 - I am not aware of any SCORM authoring tools that support `cmi.objectives` out of the box.
 
-### Content authoring tools
+#### Content authoring tools
 
 While both Adapt and Articulate Rise both support the fundamental SCORM interactions, the two products are known to behave differently. A solution that might work for Adapt may not be supported by Articulate Rise, and vice versa. Other content authoring tools likewise would not necessarily support an approach utilised by Adapt or Articulate Rise.
 
-### What about xAPI?
+#### What about xAPI?
 
 In short, there is no progress tracking solution available via xAPI functionality.
 
