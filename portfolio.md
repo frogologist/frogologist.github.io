@@ -34,6 +34,18 @@ My technical background meant that I could write the breaking changes without di
 - [Octopus 2021.2](https://octopus.com/downloads/whatsnew/2021.2)
 - [Octopus 2021.3](https://octopus.com/downloads/whatsnew/2021.3)
 
+## What's new product descriptions
+
+Marketing maintains the [What's New](https://octopus.com/whatsnew) page on the Octopus website.
+
+I wrote and published the entries for:
+  - 2021.3
+  - 2021.2
+  - 2021.1
+  - 2020.6
+
+I wrote and updated the Octopus [product roadmap](https://octopus.com/company/roadmap) in 2021, though my entries have since moved to [What's New](https://octopus.com/whatsnew).
+
 ## GitHub profiles
 
 I have a couple of personal GitHub accounts:
@@ -41,13 +53,7 @@ I have a couple of personal GitHub accounts:
 - [kathrynmarks](https://github.com/kathrynmarks) is the one I use at Octopus Deploy
 - [frogologist](https://github.com/frogologist) contains this website
 
-My main contributions at Octopus are to company's [blog](https://octopus.com/blog). I also update the [website](https://octopus.com), [product documentation](https://octopus.com/docs), and [product roadmap](https://octopus.com/company/roadmap).
-
-Specific website contributions include the [What's New](https://octopus.com/whatsnew) entries for:
-  - 2021.3
-  - 2021.2
-  - 2021.1
-  - 2020.6
+My main contributions at Octopus are to company's [blog](https://octopus.com/blog). Less often, I propose and merge changes to the Octopus [website](https://octopus.com) and [product documentation](https://octopus.com/docs).
 
 ## Social media
 
