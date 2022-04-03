@@ -8,7 +8,7 @@ permalink: /about/
 
 Hello! My name is Kathryn. 
 
-How did a neuroscientist end up in product marketing? That's a bloody good question!
+How did a neuroscientist end up in marketing? That's a bloody good question!
 
 When I'm not writing about tech at [Octopus Deploy](https://octopus.com/), you'll find me out walking with my dog, camera, or both. You can follow my adventures on [LinkedIn](https://www.linkedin.com/in/kathryn-marks/), [Twitter](https://twitter.com/wordycauses), and [Instagram](https://www.instagram.com/frogologist).
 
