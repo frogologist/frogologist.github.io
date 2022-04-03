@@ -5,9 +5,9 @@ date:   2020-10-10 10:02:29 +1000
 categories: software
 ---
 
-The elearning platforms Moodle and Totara offer a library of integration functions out of the box as part of the web service API. Totara Learn includes all of the Moodle functions plus a few more developed by Totara.
+Moodle and Totara are Learning Management Systems (LMS). The both offer a library of integration functions out of the box as part of the web service API. Totara Learn includes all of the Moodle functions plus a few more developed by Totara.
 
-The documentation built into the LMS is occasionally lacking in information such as required capabilities, and the context or scenario to which the web service applies. This article fills those gaps as I encounter them.
+The built-in documentation occasionally lacks information such as required capabilities and the context or scenario to which the web service applies. This article fills those gaps as I encounter them.
 
 ## Moodle and Totara's API documentation
 
@@ -46,12 +46,12 @@ Please excuse the width of this table.
 | Web service function | Moodle mobile app only | Undocumented capability | ws user must be enrolled to Course | Other notes |
 | --- | --- | --- | --- | --- |
 | [core_calendar_create_calendar_events](#core_calendar_create_calendar_events) | Yes | – | – | – |
-| `core_calendar_delete_calendar_events` | Yes | – | – | – |
-| `core_calendar_get_calendar_events` | Yes | – | – | – |
-| `core_completion_get_activities_completion_status` | No | https://docs.moodle.org/38/en/Capabilities/report/progress:view report/progress:view | Yes | – |
+| [core_calendar_delete_calendar_event](#core_calendar_create_calendar_events) | Yes | – | – | – |
+| [core_calendar_get_calendar_events](#core_calendar_create_calendar_events) | Yes | – | – | – |
+| core_completion_get_activities_completion_status | No | [report/progress:view](https://docs.moodle.org/38/en/Capabilities/report/progress:view) | Yes | – |
 | `core_completion_get_course_completion_status`  | No | – | Yes | – |
-| `core_user_get_users|core_user_get_users` | No | https://docs.moodle.org/38/en/Capabilities/moodle/user:viewalldetails moodle/user:viewalldetails to query by username or idnumber | – | – |
-| `core_user_get_users_by_field|core_user_get_users_by_field` | No | https://docs.moodle.org/38/en/Capabilities/moodle/user:viewalldetails moodle/user:viewalldetails to query by username or idnumber | – | – |
+| [core_user_get_users](#core_user_get_users) | No | [moodle/user:viewalldetails](https://docs.moodle.org/38/en/Capabilities/moodle/user:viewalldetails) to query by `username` or `idnumber` | – | – |
+| `core_user_get_users_by_field|core_user_get_users_by_field` | No | [moodle/user:viewalldetails](https://docs.moodle.org/38/en/Capabilities/moodle/user:viewalldetails) to query by username or idnumber | – | – |
 | `core_user_update_users|core_user_update_users` | No | – | – | Cannot be used to update site admin accounts |
 | `gradereport_overview_get_course_grades` | No | – | – | – | 
 | `gradereport_user_get_grade_items` | No | – | – | Yes |
@@ -62,3 +62,30 @@ Please excuse the width of this table.
 
 ### core_calendar_create_calendar_events
 
+This Moodle web service function was written for the Moodle mobile app (moodle_mobile_app).
+
+It creates a Calendar Event for the user logged in via the Moodle mobile app. This explains why the arguments do not include `userid`.
+
+Unfortunately, this function cannot be used by external systems.
+
+The accompanying web services to delete (`core_calendar_delete_calendar_events`) and get (`core_calendar_get_calendar_events`) the Calendar Events are likewise specific to mobile. 
+
+Refer to the [web service documentation](https://docs.moodle.org/dev/Web_service_API_function) on the Moodle website for more information.
+
+### core_user_get_users
+
+This function allows the external system to query the LMS about users based on one or more criteria, including the Moodle or Totara user id, email address, username and external ID number.
+
+The capability [moodle/user:viewalldetails](https://docs.moodle.org/38/en/Capabilities/moodle/user:viewalldetails) is required to query the LMS by `username` or `idnumber` but not by `email` or `id`. This is not indicated in the documentation but comes up in bug reports such as [MDL-42639](https://tracker.moodle.org/browse/MDL-42639) and [MDL-50639](https://tracker.moodle.org/browse/MDL-50639).
+
+The LMS does not return a permissions error when the web service user lacks this capability. I should report this issue via [Moodle Tracker](https://tracker.moodle.org/secure/Dashboard.jspa) if nobody has beaten me to it.
+
+Criteria that work without moodle/user:viewalldetails are:
+
+- criteria[0][key]=email
+- criteria[0][key]=id
+
+Criteria that also need moodle/user:viewalldetails to work, otherwise you get an empty array:
+
+- criteria[0][key]=idnumber
+- criteria[0][key]=username
