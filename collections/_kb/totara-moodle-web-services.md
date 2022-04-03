@@ -46,14 +46,14 @@ I've found numerous examples where the required capabilities are not cited on th
 | `core_calendar_create_calendar_events|core_calendar_create_calendar_events` | Yes | – | – | – |
 | `core_calendar_delete_calendar_events` | Yes | – | – | – |
 | `core_calendar_get_calendar_events` | Yes | – | – | – |
-| `core_completion_get_activities_completion_status` | No | https://docs.moodle.org/38/en/Capabilities/report/progress:view|report/progress:view | Yes | – |
+| `core_completion_get_activities_completion_status` | No | https://docs.moodle.org/38/en/Capabilities/report/progress:view report/progress:view | Yes | – |
 | `core_completion_get_course_completion_status`  | No | – | Yes | – |
-| `core_user_get_users|core_user_get_users` | No | https://docs.moodle.org/38/en/Capabilities/moodle/user:viewalldetails|moodle/user:viewalldetails to query by username or idnumber | – | – |
-| `core_user_get_users_by_field|core_user_get_users_by_field` | No | https://docs.moodle.org/38/en/Capabilities/moodle/user:viewalldetails|moodle/user:viewalldetails to query by username or idnumber | – | – |
+| `core_user_get_users|core_user_get_users` | No | https://docs.moodle.org/38/en/Capabilities/moodle/user:viewalldetails moodle/user:viewalldetails to query by username or idnumber | – | – |
+| `core_user_get_users_by_field|core_user_get_users_by_field` | No | https://docs.moodle.org/38/en/Capabilities/moodle/user:viewalldetails moodle/user:viewalldetails to query by username or idnumber | – | – |
 | `core_user_update_users|core_user_update_users` | No | – | – | Cannot be used to update site admin accounts |
 | `gradereport_overview_get_course_grades` | No | – | – | – | 
 | `gradereport_user_get_grade_items` | No | – | – | Yes |
 | `gradereport_user_get_grades_table|gradereport_user_get_grades_table` | No | No | Yes | Returns the data in a form intended for HTML table output. See `gradereport_user_get_grade_items`. |
 | `mod_quiz_get_quizzes_by_courses` | No | – | Yes | Returns generic (config) information about the Course's quizzes—not learner data. |
-| `mod_quiz_get_user_attempts` | No | https://docs.moodle.org/38/en/Capabilities/mod/quiz:viewreports|mod/quiz:viewreports | Yes | – |
+| `mod_quiz_get_user_attempts` | No | https://docs.moodle.org/38/en/Capabilities/mod/quiz:viewreports mod/quiz:viewreports | Yes | – |
 | `mod_quiz_get_user_best_grade` | No | – | Yes | – |
