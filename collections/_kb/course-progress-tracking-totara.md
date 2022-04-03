@@ -50,7 +50,7 @@ The short answer is no. Read on for more information.
 There are multiple factors to consider when attempting to display granular progress data from one SCORM package. They include the functionality and capabilities of:
 
 - the LMS
-- the Shareable Content Object Reference Model (SCORM) version
+- the SCORM version
 - content authoring tools such as Adapt and Articulate Rise
 
 #### Totara Learn
