@@ -71,7 +71,7 @@ SCORM’s data model (CMI) includes learning objectives: `cmi.objectives`. It’
 
 Totara could, theoretically, be made to calculate progress based on the number of objectives completed and the total number in the SCORM. There are a few reasons why it’s not a compelling solution:
 
-- `cmi.objectives` is not required for SCORM 1.2 compliance, so not all Learning Management Systems support it. You may prefer to create SCORM content that is well-supported, in case you decide to change your LMS software. On a side note, `cmi.objectives` is mandatory for SCORM 2004 compliance.
+- `cmi.objectives` is not required for SCORM 1.2 compliance, so not all Learning Management Systems support it. You may prefer to create SCORM content that is widely supported, in case you decide to change your LMS software. On a side note, `cmi.objectives` is mandatory for SCORM 2004 compliance.
 - Totara supports `cmi.objectives` and offers an Objectives Report, but the report is only available to system administrators, not learners.
 - The field `cmi.objectives._count` holds the current number of objectives, not the total. This value represents the number of objectives recorded since the learner launched the SCORM, not how many to expect. The SCORM should declare to the LMS how many objectives there are at first launch, but it's not a requirement. Based on my experience, most packages do not provide this information.
 - I am not aware of any SCORM authoring tools that support `cmi.objectives` out of the box.
