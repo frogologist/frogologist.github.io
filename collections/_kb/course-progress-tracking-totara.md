@@ -15,7 +15,7 @@ Progress data must be available to Totara in order to represent it graphically a
 
 Totara provides percentage-based progress bars as a standard feature based on the [course completion settings](https://help.totaralearning.com/display/TH13/Course+completions). This functionality relies on the Course being made up of multiple Activities and assumes the Activities are of equal value, in terms of contribution towards completion.
 
-The calculation method is described in Totara’s [documentation](https://help.totaralearning.com/display/TH13/Progress+bar) if you're interested.
+The calculation method is described in Totara's [documentation](https://help.totaralearning.com/display/TH13/Progress+bar) if you're interested.
 
 You see this kind of progress tracking when undertaking Totara Academy courses as a learner.
 
@@ -61,15 +61,15 @@ In terms of progress data, Totara is at the mercy of the information made availa
 
 #### SCORM 1.2
 
-[SCORM 1.2](https://scorm.com/scorm-explained/technical-scorm/run-time/run-time-reference/) does not provide any explicit mechanism to indicate (to the LMS) the learner’s progress as a percentage value, nor minutes remaining.
+[SCORM 1.2](https://scorm.com/scorm-explained/technical-scorm/run-time/run-time-reference/) does not provide any explicit mechanism to indicate (to the LMS) the learner's progress as a percentage value, nor minutes remaining.
 
 When learning content is packaged as one SCO, the LMS (such as Totara) receives the status of the SCO as a whole — it does not receive detailed information about the content or progress inside the SCO. At most, the LMS is aware whether a SCORM for a given learner is not started, in progress, or complete.
 
 #### What about SCORM Objectives?
 
-SCORM’s data model (CMI) includes learning objectives: `cmi.objectives`. It’s possible to set up a SCORM package so that each topic tracks to an objective.
+SCORM's data model (CMI) includes learning objectives: `cmi.objectives`. It's possible to set up a SCORM package so that each topic tracks to an objective.
 
-Totara could, theoretically, be made to calculate progress based on the number of objectives completed and the total number in the SCORM. There are a few reasons why it’s not a compelling solution:
+Totara could, theoretically, be made to calculate progress based on the number of objectives completed and the total number in the SCORM. There are a few reasons why it's not a compelling solution:
 
 - `cmi.objectives` is not required for SCORM 1.2 compliance, so not all Learning Management Systems support it. You may prefer to create SCORM content that is widely supported, in case you decide to change your LMS software. On a side note, `cmi.objectives` is mandatory for SCORM 2004 compliance.
 - Totara supports `cmi.objectives` and offers an Objectives Report, but the report is only available to system administrators, not learners.
@@ -88,4 +88,4 @@ You could design xAPI statements to collect more detailed tracking information f
 
 Converting SCORM data models into xAPI is not recommended, though there are libraries to do so. SCORM Cloud might offer such libraries.
 
-The general consensus is that SCORM should continue to handle the course’s session state and bookmarking, including tracking individual SCO completion. xAPI could be implemented to capture cross-SCO insights and support gamification features such as leader boards, levels, triggers and badges within the LMS. Again, this is hypothetical functionality.
+The general consensus is that SCORM should continue to handle the course's session state and bookmarking, including tracking individual SCO completion. xAPI could be implemented to capture cross-SCO insights and support gamification features such as leader boards, levels, triggers and badges within the LMS. Again, this is hypothetical functionality.

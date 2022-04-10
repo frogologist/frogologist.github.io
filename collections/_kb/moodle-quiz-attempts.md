@@ -13,9 +13,9 @@ You can delete an existing attempt or manually override the limit to give the le
 
 When you invoke **Delete selected attempts** to reset the attempt for a given learner in Moodle 3.8, the following occurs:
 
-- The attempt is deleted from the table ''mdl_quiz_attempts''
-- The quiz grade is deleted from ''mdl_quiz_grades''
-- The 'grade grade' rows are retained in ''mdl_grade_grades''
+- The attempt is deleted from the table `mdl_quiz_attempts`
+- The quiz grade is deleted from `mdl_quiz_grades`
+- The 'grade grade' rows are retained in `mdl_grade_grades`
 
 ## Override the number of attempts for a given user
 

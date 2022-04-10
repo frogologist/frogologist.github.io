@@ -13,10 +13,11 @@ HR Import can accommodate multiple data sources, but from an automation perspect
 
 In general, I recommend collating the HR Import data into one source for consumption by Totara Learn.
 
-Organizations wishing to implement multiple HR Import feeds would need to consider the following:
-- Set `Source contains all records` to no.
+Consider the following before implementing multiple HR Import feeds:
+
+- Set **Source contains all records** to `no`.
 - Import files would have to contain the column `deleted`, with `1` or `0` specified per user (row) as appropriate.
-- The site administrator could set up a scheduled import from the main data source and perform manual uploads from the other source. To implement this the site admin would switch the settings to `upload` and back again with each manual upload.
+- The site administrator could set up a scheduled import from the main data source and perform manual uploads from the other source. Switch the settings to `upload` and back again with each manual upload.
 - It's possible but difficult to schedule consumption of HR Import files from multiple sources. It would require careful configuration of the import schedule so that Totara uploads the file from the first source, allows it to import, then uploads the file from the second source.
 
 ## Job Assignments persist after user suspension

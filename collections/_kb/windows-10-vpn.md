@@ -5,6 +5,8 @@ date:   2019-05-17 10:39:29 +1000
 categories: windows
 ---
 
+This solution might help you troubleshoot VPN connection issues in Windows 10.
+
 ![The error message returned when Windows cannot connect to a VPN.]({{ site.url }}/assets/images/windows_10_vpn_error.jpg)
 
 >A connection to the remote computer could not be established. You might need to change the network settings for this connection.

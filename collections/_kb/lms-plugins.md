@@ -5,6 +5,8 @@ date:   2020-10-15 10:39:29 +1000
 categories: elearning
 ---
 
+This article summarizes what I know about a few plugins for the Learning Management Systems (LMS) Moodle and Totara.
+
 ## Summary
 
 | Plugin        | Type              | Moodle<span>.</span>org    | GitHub      |  Author     | Compatibility |
