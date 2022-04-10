@@ -10,7 +10,7 @@ This page provides links to my work on other sites.
 
 This site is mostly populated with older work (2010-2020).
 
-I wrote most of my [blog posts]({% link index.md %}) and [knowledge base](https://frogologist.github.io/kb) (kb) articles during my time as a business analyst and product owner at Kineo. The kb was originally a personal site in the company's SharePoint instance; I've omitted proprietary information to protect Kineo's interests.
+I wrote some of my [blog posts]({% link index.md %}) and [knowledge base](https://frogologist.github.io/kb) (kb) articles during my time as a business analyst and product owner at Kineo. The kb was originally a personal site in the company's SharePoint instance; I've omitted proprietary information to protect Kineo's interests.
 
 ### Professional blog posts
 
@@ -57,7 +57,7 @@ My main contributions at Octopus are to company's [blog](https://octopus.com/blo
 
 ## Social media
 
-I'm responsible for all posts, comments, and replies shared via Octopus Deploy's [Twitter](https://twitter.com/OctopusDeploy) and [LinkedIn](https://www.linkedin.com/company/octopus-deploy/) profiles.
+I'm responsible for all organic posts, comments, and replies shared via Octopus Deploy's [Twitter](https://twitter.com/OctopusDeploy) and [LinkedIn](https://www.linkedin.com/company/octopus-deploy/) profiles.
 
 I've been running Octopus Deploy's Twitter account since March 2021 and LinkedIn since December 2021. The Octopus launch posts on LinkedIn from 2021 are mine, mixed in with content from others.
 
