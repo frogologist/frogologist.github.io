@@ -5,7 +5,7 @@ date:   2020-10-10 11:49:29 +1000
 categories: software
 ---
 
-Organisations often desire learner dashboards with visual and numerical indicators of course progress in the Learning Management System (LMS).
+Organizations often desire learner dashboards with visual and numerical indicators of course progress in the Learning Management System (LMS).
 
 It's easy to deliver the progress bars or wheels from a web design standpoint, but you may not have access to the required data.
 
@@ -78,7 +78,7 @@ Totara could, theoretically, be made to calculate progress based on the number o
 
 #### Content authoring tools
 
-While both Adapt and Articulate Rise both support the fundamental SCORM interactions, the two products are known to behave differently. A solution that might work for Adapt may not be supported by Articulate Rise, and vice versa. Other content authoring tools likewise would not necessarily support an approach utilised by Adapt or Articulate Rise.
+While both Adapt and Articulate Rise both support the fundamental SCORM interactions, the two products are known to behave differently. A solution that might work for Adapt may not be supported by Articulate Rise, and vice versa. Other content authoring tools likewise would not necessarily support an approach utilized by Adapt or Articulate Rise.
 
 #### What about xAPI?
 
@@ -88,4 +88,4 @@ You could design xAPI statements to collect more detailed tracking information f
 
 Converting SCORM data models into xAPI is not recommended, though there are libraries to do so. SCORM Cloud might offer such libraries.
 
-The general consensus is that SCORM should continue to handle the course’s session state and bookmarking, including tracking individual SCO completion. xAPI could be implemented to capture cross-SCO insights and support gamification features such as leaderboards, levels, triggers and badges within the LMS. Again, this is hypothetical functionality.
+The general consensus is that SCORM should continue to handle the course’s session state and bookmarking, including tracking individual SCO completion. xAPI could be implemented to capture cross-SCO insights and support gamification features such as leader boards, levels, triggers and badges within the LMS. Again, this is hypothetical functionality.
