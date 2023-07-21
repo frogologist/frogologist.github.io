@@ -10,5 +10,3 @@ You can modify the default zoom behavior in Corel Draw v11-13 such that `100%` r
 This setting is accessed via Tools > Options > Workspace > Toolbox > Zoom, Hand Tool > Zoom Relative to 1:1.
 
 You may also want to **Calibrate Rulers** from the same settings window.
-
-{{ page.path }}
