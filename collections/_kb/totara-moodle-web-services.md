@@ -98,7 +98,7 @@ This function allows the external system to query the LMS about users by field, 
 
 The capability [moodle/user:viewalldetails](https://docs.moodle.org/38/en/Capabilities/moodle/user:viewalldetails) is required to query the LMS by `username` or `idnumber` but not by `email` or `id`. It’s not indicated in the documentation but comes up in bug reports such as [MDL-42639](https://tracker.moodle.org/browse/MDL-42639) and [MDL-50639](https://tracker.moodle.org/browse/MDL-50639).
 
-The LMS does not return a permissions error when the web service user lacks this capability. I have pondered whether to report this issue via [[https://tracker.moodle.org/secure/Dashboard.jspa|Moodle Tracker]].
+The LMS does not return a permissions error when the web service user lacks this capability. I have pondered whether to report this issue via [Moodle Tracker](https://tracker.moodle.org/secure/Dashboard.jspa).
 
 Fields that work without moodle/user:viewalldetails are:
 
