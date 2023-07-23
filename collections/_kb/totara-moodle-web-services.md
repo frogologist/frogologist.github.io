@@ -39,7 +39,7 @@ The **Add functions to the service** page in the LMS for a given external servic
 
 The URL for this page resembles https://`yoursiteaddress`/admin/webservice/service_functions.php?id=`n` where `n` is the id number for the service.
 
-The following table outlines some undocumented requirements, including required permissions and caveats.
+The following table outlines some undocumented requirements, including permissions and caveats.
 
 Please excuse the width of the table. Links in the first column take you to dedicated sections further down this page.
 
