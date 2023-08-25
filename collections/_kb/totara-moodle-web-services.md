@@ -3,6 +3,7 @@ layout: post
 title:  "Moodle and Totara web services"
 date:   2020-10-10 10:02:29 +1000
 categories: software
+published: false
 ---
 
 Moodle and Totara are Learning Management Systems (LMS). They offer a library of integration functions as part of the web service API. Totara Learn includes all of the Moodle functions, plus a few more developed by Totara.
