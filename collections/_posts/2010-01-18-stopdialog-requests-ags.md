@@ -4,6 +4,7 @@ title:  "StopDialog requests in AGS 3.1"
 slug: stopdialog-requests-ags
 date:   2010-01-18 10:39:29 +1000
 categories: programming
+published: false
 ---
 
 I'm helping a friend to make a LucasArts-style adventure game with [Adventure Game Studio](https://www.adventuregamestudio.co.uk/) (AGS). My friend is responsible for the design, art, and media; I'm the coder behind the scenes.
