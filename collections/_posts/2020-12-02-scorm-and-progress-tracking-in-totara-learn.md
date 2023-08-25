@@ -3,6 +3,7 @@ layout: post
 title:  "SCORM and progress tracking in Totara Learn"
 date:   2020-12-02 17:54:29 +1000
 categories: elearning
+published: false
 ---
 
 When implementing a Learning Management System (LMS), organizations often desire learner-facing dashboards with visual and numerical indicators of course progress.

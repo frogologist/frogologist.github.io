@@ -3,6 +3,7 @@ layout: post
 title:  "Adjusting zoom in Corel Draw"
 date:   2010-04-23 10:39:29 +1000
 categories: software
+published: false
 ---
 
 Every year I create a poster or two for scientific conferences. I'm currently designing a poster with dimensions 4′ by 8′ (1.22m by 2.44m).

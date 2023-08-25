@@ -4,6 +4,7 @@ title:  "The art of primer design"
 slug: art-primer-design
 date:   2010-03-09 10:39:29 +1000
 categories: science
+published: false
 ---
 
 Designing PCR primers can feel like hunting for the Holy Grail. 

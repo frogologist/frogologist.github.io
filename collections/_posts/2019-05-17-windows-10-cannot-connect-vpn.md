@@ -3,6 +3,7 @@ layout: post
 title:  "Windows 10 cannot connect to a VPN"
 date:   2019-05-17 10:39:29 +1000
 categories: software
+published: false
 ---
 
 When attempting to connect to a customer's VPN, I encountered the following error:
