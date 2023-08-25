@@ -3,6 +3,7 @@ layout: post
 title:  "Totara's HR Import"
 date:   2020-10-21 10:39:29 +1000
 categories: elearning
+published: false
 ---
 
 This article collates various notes about HR Import and its usage. It is not substitute for Totara's [product documentation](https://help.totaralearning.com/display/TL12/HR+Import).
