@@ -3,6 +3,7 @@ layout: post
 title:  "Absolute positioning and the importance of doctype"
 date:   2010-04-04 10:39:29 +1000
 categories: programming
+published: false
 ---
 
 When a CSS layout breaks in Internet Explorer (IE) 7 or 8, it may be due to the lack of an appropriate HTML/XHTML [doctype declaration](https://www.w3schools.com/tags/tag_doctype.asp).
