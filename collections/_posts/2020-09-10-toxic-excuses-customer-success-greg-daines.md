@@ -3,6 +3,7 @@ layout: post
 title:  "'Toxic excuses of Customer Success' by Greg Daines"
 date:   2020-09-10 10:39:29 +1000
 categories: it
+published: false
 ---
 
 I happened upon a [CS100 Summit](https://cs100.clientsuccess.com/) presentation by Greg Daines about the common challenges faced by customer success teams. Greg's premise of 'toxic excuses' is too click-bait for my taste, but the case studies resonated with my experiences on the vendor side of software implementations.
