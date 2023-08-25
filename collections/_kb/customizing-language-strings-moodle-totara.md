@@ -3,6 +3,7 @@ layout: post
 title:  "Customizing language strings in Moodle and Totara"
 date:   2020-10-10 09:40:29 +1000
 categories: software
+published: false
 ---
 
 Moodle and Totara Learn support a range of languages in the form of language packs; see the documentation for [Moodle](https://docs.moodle.org/35/en/Language_settings) and [Totara](https://help.totaralearning.com/display/TL12/Site+Languages) respectively. Within a given language pack you can customize the wording and terminology so that the Learning Management System (LMS) reflects your organization's culture and feels more familiar to your learners and other users.

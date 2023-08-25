@@ -3,6 +3,7 @@ layout: post
 title:  "Plugins for Moodle LMS and Totara"
 date:   2020-10-15 10:39:29 +1000
 categories: elearning
+published: false
 ---
 
 This article summarizes what I know about a few plugins for the Learning Management Systems (LMS) Moodle and Totara.

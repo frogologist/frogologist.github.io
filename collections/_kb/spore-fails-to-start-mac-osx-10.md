@@ -3,6 +3,7 @@ layout: post
 title:  "Spore fails to start on Mac OS X 10"
 date:   2010-07-25 10:39:29 +1000
 categories: gaming
+published: false
 ---
 
 The PC game [Spore](http://www.spore.com/pc) failed to start on Mac OS X (Cheetah). 

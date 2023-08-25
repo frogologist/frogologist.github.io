@@ -3,6 +3,7 @@ layout: post
 title:  "Totara Learn's IAAA characteristics and features"
 date:   2020-12-07 19:54:29 +1000
 categories: elearning
+published: false
 ---
 
 IAAA is an acronym for Identification and Authentication, Authorization, and Accountability and concerns access control, security, and traceability in a software system. This article describes Totara Learn's IAAA characteristics and features.

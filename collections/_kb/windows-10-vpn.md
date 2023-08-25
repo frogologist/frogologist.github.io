@@ -3,6 +3,7 @@ layout: post
 title:  "Windows 10 cannot connect to a VPN"
 date:   2019-05-17 10:39:29 +1000
 categories: windows
+published: false
 ---
 
 This solution might help you troubleshoot VPN connection issues in Windows 10.
