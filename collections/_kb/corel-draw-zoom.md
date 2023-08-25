@@ -3,6 +3,7 @@ layout: post
 title:  "Adjusting zoom in Corel Draw"
 date:   2010-04-23 10:39:29 +1000
 categories: software
+published: false
 ---
 
 You can modify the default zoom behavior in Corel Draw v11-13 such that `100%` reveals the document at full size.
