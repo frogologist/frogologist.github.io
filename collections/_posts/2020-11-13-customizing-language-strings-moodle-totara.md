@@ -13,4 +13,4 @@ Modifying the language pack is intimidating the first time you try it. Finding t
 
 Fortunately, both platforms offer an admin utility that removes the guesswork. People often dive into editing language packs without knowing the utility exists.
 
-You can learn more about the utility in my [knowledge base article]({% link _kb/customizing-language-strings-moodle-totara.md %}) about customizing language strings.
+You can learn more about the utility in my knowledge base article about customizing language strings.
