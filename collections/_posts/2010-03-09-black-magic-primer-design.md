@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "The black magic of primer design"
+title:  "The art of primer design"
+slug: art-primer-design
 date:   2010-03-09 10:39:29 +1000
 categories: science
 ---
