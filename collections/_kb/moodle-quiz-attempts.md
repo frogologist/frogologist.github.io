@@ -3,6 +3,7 @@ layout: post
 title:  "Moodle Quiz Attempts"
 date:   2020-12-07 19:54:29 +1000
 categories: elearning
+published: false
 ---
 
 Moodle allows you to limit the number of quiz attempts by each learner. Sometimes you need to give a learner another attempt, perhaps due to technical difficulties or compassionate reasons.
