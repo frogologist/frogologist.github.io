@@ -3,6 +3,7 @@ layout: post
 title:  "Using Moodle web services"
 date:   2020-11-20 17:54:29 +1000
 categories: elearning
+published: false
 ---
 
 The Moodle and Totara e-learning platforms include libraries of web service functions to integrate with other systems.
