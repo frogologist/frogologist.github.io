@@ -18,6 +18,6 @@ This blog is a [Jekyll](https://jekyllrb.com/) site with the [Minima](https://gi
 
 Previous homes for this blog included Content Management Systems (CMS) such as Blogger by [Pyra Labs](https://en.wikipedia.org/wiki/Pyra_Labs)/[Google](https://www.blogger.com), [Wordpress.com](https://wordpress.com), and a self-hosted [Wordpress](https://wordpress.org/) instance.
 
-The irony of a database-driven CMS is that the content takes a back seat to fidding about with the platform. Clumsy text editors are par for the course.
+The irony of a database-driven CMS is that the content takes a back seat to fiddling with the platform. Clumsy text editors are par for the course.
 
 Jekyll, GitHub, and Markdown allow me to focus on writing, satisfy my craving for a bit of coding, and make it easy to roll back mistakes.
