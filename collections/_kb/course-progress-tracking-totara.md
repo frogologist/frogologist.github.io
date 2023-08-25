@@ -3,6 +3,7 @@ layout: post
 title:  "Course progress tracking in Totara Learn"
 date:   2020-10-10 11:49:29 +1000
 categories: software
+published: false
 ---
 
 Organizations often desire learner dashboards with visual and numerical indicators of course progress in the Learning Management System (LMS).
