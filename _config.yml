@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Stem and Leaf Consulting
+title: Kathryn Marks
 email: hello@stemandleaf.com.au
 description: >- # this means to ignore newlines until "baseurl:"
   Why WordPress when you can Jekyll?
