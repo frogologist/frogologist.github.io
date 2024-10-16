@@ -10,7 +10,7 @@ Hello!
 
 Can you hear that? That’s the wind whistling through an empty website.
 
-Please wander over to [kathrynmarks.com](https://kathrynmarks.com), the new home for my portfolio and blog. I’ve moved the content across.
+Please wander over to [stemandleaf.com.au](https://stemandleaf.com.au/), the new home for my portfolio and blog. I’ve moved the content across.
 
 ## Why am I keeping frogologist.github.io alive?
 
@@ -24,8 +24,8 @@ I unpublished the posts and articles to ensure search engines identify kathrynma
 
 ## Why didn’t I redirect traffic to the new site?
 
-I considered adding redirects to kathrynmarks.com, but I don’t think my GitHub Pages site has any traffic.
+I considered adding redirects to stemandleaf.com.au, but I don’t think my GitHub Pages site has any traffic.
 
 ## Why did I move away from a static site generator?
 
-I’m planning a blog post to address this question. [Watch my blog](https://kathrynmarks.com/blog) for updates.
+GitHub Pages is fun, but it [distracted me from writing](https://stemandleaf.com.au/blog/squarespace-review).
