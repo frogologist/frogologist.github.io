@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Hop to the [About page](https://stemandleaf.com.au/about) at stemandleaf.com.au to learn more about me.
+Hop to the [About page](https://stemandleaf.com.au/about) for Stem and Leaf Consulting to learn more about me.
